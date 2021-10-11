@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+	background-image: url("griffpartyswitch11.gif");
+}
+
+.link{
+	position: absolute;
+	right: 50%;
+	top: 50%;
+	
+}
